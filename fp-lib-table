@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "symbols")(type "KiCad")(uri "C:/Users/Taylor Gerke/OneDrive - University of Florida/Documents/KiCad/6.0/symbols.pretty")(options "")(descr ""))
+  (lib (name "AMS1117 (1)")(type "KiCad")(uri "C:/Users/Taylor Gerke/Downloads/AMS1117 (1)")(options "")(descr ""))
+  (lib (name "FUSE_1812L200_12DR")(type "KiCad")(uri "C:/Users/Taylor Gerke/Downloads/FUSE_1812L200_12DR")(options "")(descr ""))
+)
